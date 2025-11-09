@@ -1,0 +1,71 @@
+# Core Python
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Data Engineering & ETL
+pandas==2.1.4
+numpy==1.26.2
+apache-airflow==2.8.0
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+requests==2.31.0
+
+# Database
+alembic==1.13.1
+
+# Data Science & ML
+scikit-learn==1.3.2
+xgboost==2.0.3
+prophet==1.1.5
+lightgbm==4.1.0
+statsmodels==0.14.1
+
+# MLOps
+mlflow==2.9.2
+joblib==1.3.2
+
+# API & Backend
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Notifications
+twilio==8.11.1
+
+# Data Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
+httpx==0.25.2
+
+# Utilities
+loguru==0.7.2
+tenacity==8.2.3
+tqdm==4.66.1
+pytz==2023.3
+pendulum==3.0.0
+
+# Time Series
+holidays==0.38
+
+# Geospatial (optionnel)
+geopy==2.4.1
+
+# Development
+black==23.12.1
+flake8==7.0.0
+isort==5.13.2
+mypy==1.7.1
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.27.1
+notebook==7.0.6
