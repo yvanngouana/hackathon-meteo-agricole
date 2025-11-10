@@ -611,8 +611,8 @@ MIT License - Copyright (c) 2024 Yvan NGOUANA
 **Yvan NGOUANA**
 📧 Email: contact@meteo-agricole.sn
 📱 Téléphone: +237 693 451 088
-🔗 GitHub: [github.com/yvan-ngouana]
-💼 LinkedIn: [linkedin.com/in/yvan-ngouana]
+🔗 GitHub: github.com/yvanngouana
+💼 LinkedIn: linkedin.com/in/yvan.ngouana
 
 ---
 
@@ -629,5 +629,4 @@ MIT License - Copyright (c) 2024 Yvan NGOUANA
 **🌾 Développé avec passion pour l'agriculture africaine 🚜**
 
 *Un agriculteur informé est un agriculteur prospère*
-# hack
-# hack
+
