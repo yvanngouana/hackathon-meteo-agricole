@@ -2,9 +2,13 @@
 
 ## Hack2Hire - Édition 2
 
-**Développeur :** Yvan NGOUANA                Serigne Babacar KANE
-**Email :** yvan.ngouana@yahoo.com              bgserignebabacar@gmail.com
-**Téléphone :** +237 693 451 088              +221781575821
+**Développeur :** Yvan NGOUANA               
+**Email :** yvan.ngouana@yahoo.com          
+**Téléphone :** +237 693 451 088   
+
+**Data Engineer & Data Analyst:** Serigne Babacar KANE
+**Email:** bgserignebabacar@gmail.com
+**Téléphone:** +221781575821
 
 ---
 
@@ -609,10 +613,16 @@ MIT License - Copyright (c) 2024 Yvan NGOUANA
 ## 📧 Contact
 
 **Yvan NGOUANA**
-📧 Email: contact@meteo-agricole.sn
-📱 Téléphone: +237 693 451 088
-🔗 GitHub: github.com/yvanngouana
-💼 LinkedIn: linkedin.com/in/yvan.ngouana
+ Email: contact@meteo-agricole.sn
+ Téléphone: +237 693 451 088
+ GitHub: github.com/yvanngouana
+ LinkedIn: linkedin.com/in/yvan.ngouana
+
+ **Serigne Babacar KANE**
+ Email: bgserignebabacar@gmail.com
+ Téléphone: +221 781575821
+ GitHub: https://github.com/Goorgui-5
+ LinkedIn: www.linkedin.com/in/serigne-babacar-kane-6b9759206
 
 ---
 
