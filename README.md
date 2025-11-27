@@ -2,7 +2,7 @@
 
 ## Hack2Hire - Édition 2
 
-**Développeur :** Yvan NGOUANA               
+**Développeur :** Yvan NGOUANA
 **Email :** yvan.ngouana@yahoo.com          
 **Téléphone :** +237 693 451 088   
 
