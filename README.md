@@ -2,9 +2,9 @@
 
 ## Hack2Hire - Édition 2
 
-**Développeur :** Yvan NGOUANA
-**Email :** yvan.ngouana@yahoo.com
-**Téléphone :** +237 693 451 088
+**Développeur :** Yvan NGOUANA                Serigne Babacar KANE
+**Email :** yvan.ngouana@yahoo.com              bgserignebabacar@gmail.com
+**Téléphone :** +237 693 451 088              +221781575821
 
 ---
 
